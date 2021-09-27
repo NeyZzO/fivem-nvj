@@ -63,7 +63,7 @@ RegisterCommand("++nvj", function(src, args, command)
             enabled = 0
             Citizen.Wait(0.5)
             SetNightvision(false)
-            end
+
         end
     end
 
